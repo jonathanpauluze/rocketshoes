@@ -10,7 +10,7 @@
     <img alt="Made by jonathanpauluze" src="https://img.shields.io/badge/made%20by-jonathanpauluze-%2304D361">
   </a>
   
-  <a href="https://github.com/jonathanpauluze/trustly-store/commits/main">
+  <a href="https://github.com/jonathanpauluze/rocketshoes/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonathanpauluze/rocketshoes">
   </a>
 
